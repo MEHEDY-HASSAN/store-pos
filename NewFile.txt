@@ -3,7 +3,7 @@
 public class GSC{
 	
 	int x;
-	
+	string s;
 	public GSC() {
 		
 	}
